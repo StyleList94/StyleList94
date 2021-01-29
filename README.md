@@ -1,8 +1,8 @@
-### LovelyHaRa
-
-###### Front-End Developer
+### Hi there 👋
 
 ---
+
+#### I am Front-End Developer
 
 #### Skills
 ![JavaScript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
