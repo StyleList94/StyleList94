@@ -4,7 +4,7 @@
 
 ---
 
-## EXPerience
+### EXPerience
 
 ![JavaScript](https://img.shields.io/badge/JavsScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=222)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=eee)
@@ -14,7 +14,7 @@
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=eee)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=eee)
 
-## About me
+### About me
 
 - 🌱 I’m currently learning Design System and Test Driven Development
 - 😄 Pronouns: CodeTender
