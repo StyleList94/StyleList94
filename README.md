@@ -1,8 +1,8 @@
 ### SO Lovely CODE! ❤
 
----
-
 #### Front-End Developer💄
+
+---
 
 ## EXPerience
 
