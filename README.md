@@ -6,13 +6,13 @@
 
 ### EXPerience
 
-![JavaScript](https://img.shields.io/badge/JavsScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=222)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=eee)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=222)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=222)
-![rollup.js](https://img.shields.io/badge/rollup.js-EC4A3F?style=flat-square&logo=rollup.js&logoColor=eee)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=eee)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=eee)
+[![JavaScript](https://img.shields.io/badge/JavsScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=222)](https://github.com/LovelyHaRa?tab=repositories&language=javascript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=eee)](https://github.com/LovelyHaRa?tab=repositories&language=typescript)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=222)](https://github.com/LovelyHaRa?tab=repositories&q=react)
+[![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=222)](https://github.com/LovelyHaRa?tab=repositories&q=webpack)
+[![rollup.js](https://img.shields.io/badge/rollup.js-EC4A3F?style=flat-square&logo=rollup.js&logoColor=eee)](https://github.com/LovelyHaRa?tab=repositories&q=rollupjs)
+[![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=eee)](https://github.com/LovelyHaRa?tab=repositories&q=storybook)
+[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=eee)](https://github.com/LovelyHaRa?tab=repositories&q=netlify)
 
 ### About me
 
