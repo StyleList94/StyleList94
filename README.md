@@ -1,6 +1,6 @@
-<h3>SO Lovely CODE! ❤</h3>
+**SO Lovely CODE! ❤**
 
-<h4>Front-End Developer💄</h4>
+**Front-End Developer💄**
 
 ---
 
