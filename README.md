@@ -16,11 +16,6 @@
 [![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=eee)](https://github.com/LovelyHaRa?tab=repositories&q=storybook)
 [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=eee)](https://github.com/LovelyHaRa?tab=repositories&q=netlify)
 
-### About me
-
-- 🌱 I’m currently learning Design System and Test Driven Development
-- 😄 Pronouns: CodeTender
-- ⚡ Fun fact: I can do makeup, too.
 
 <!--
 **LovelyHaRa/LovelyHaRa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,4 +30,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🌱 I’m currently learning Design System and Test Driven Development
+- 😄 Pronouns: CodeTender
+- ⚡ Fun fact: I can do makeup, too.
+
 -->
