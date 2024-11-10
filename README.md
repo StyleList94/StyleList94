@@ -20,52 +20,24 @@
 
 ## Introduce
 
-```tsx
+```ts
 import React from 'react'
 
-export default function WhoAmI() {
+export default function useIntroduce() {
   const [sexuality] = React.useState('man');
 
   const [framework] = React.useState(['Next.js', 'Vite']);
-  const [styling] = React.useState([
-    'tailwindcss',
-    'styled-components',
-    'SCSS',
-    'CSS Module',
-  ]);
+  const [styling] = React.useState(['tailwindcss', 'styled-components', 'CSS']);
   const [testing] = React.useState(['vitest', 'jest', 'testing-library']);
   const [stateManagement] = React.useState(['redux', 'zustand', 'recoil']);
-
-  return (
-    <section>
-      <h2>Who am I?</h2>
-        
-      <h3>Sexuality</h3>
-      <p>{sexuality}</p>
-        
-      <h3>Main Framework</h3>
-      <p>{framework[0]}</p>
-        
-      <h3>Favorite Styling Techniques</h3>
-      <p>{styling[0]}</p>
-        
-      <h3>DOM Testing</h3>
-      <ul>
-        {testing
-          .filter((tool) => tool !== 'jest')
-          .map((currentUsed) => (
-            <li>{currentUsed}</li>
-          ))}
-      </ul>
-        
-      <h3>State Management</h3>
-      <ul>
-        {stateManagement.slice(0, 2).map((currentUsed) => (
-          <li>{currentUsed}</li>
-        ))}
-      </ul>
-    </section>
-  );
+  
+  return {
+    sexuality,
+    mainFramework: framework[0],
+    favoriteStyling: styling[0],
+    domTesting: testing.filter((tool) => tool !== 'jest'),
+    stateManagement: stateManagement.slice(0, 2),
+  };
 }
 ```
 
