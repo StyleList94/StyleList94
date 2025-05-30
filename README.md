@@ -1,6 +1,6 @@
-## Lovely ❤️
+# Lovely ❤️
 
-#**FrontEnd** #DesignSystem #*Blockchain*
+\#**FrontEnd** \#DesignSystem \#_Blockchain_
 
 ## 🚀 EXPerience
 
@@ -16,12 +16,12 @@
 [![rollup.js](https://img.shields.io/badge/rollup.js-EC4A3F?style=flat-square&logo=rollup.js&logoColor=eee)](https://github.com/StyleList94?tab=repositories&q=rollupjs)
 [![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=React&logoColor=222)](https://github.com/StyleList94?tab=repositories&q=react-native)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=eee)](https://github.com/StyleList94?tab=repositories&q=vercel)
-[![Cloudflare Pages](https://img.shields.io/badge/Pages-F38020?style=flat-square&logo=Cloudflare%20Pages&logoColor=eee)](https://github.com/StyleList94?tab=repositories&q=cloudflare-pages)
+[![Cloudflare Workers](https://img.shields.io/badge/Workers-F38020?style=flat-square&logo=Cloudflare%20Workers&logoColor=eee)](https://github.com/StyleList94?tab=repositories&q=cloudflare-workers)
 
 ## Introduce
 
 ```ts
-import React from 'react'
+import * as React from 'react';
 
 export default function useIntroduce() {
   const [sexuality] = React.useState('man');
@@ -30,7 +30,7 @@ export default function useIntroduce() {
   const [styling] = React.useState(['tailwindcss', 'styled-components', 'CSS']);
   const [testing] = React.useState(['vitest', 'jest', 'testing-library']);
   const [stateManagement] = React.useState(['redux', 'zustand', 'recoil']);
-  
+
   return {
     sexuality,
     mainFramework: framework[0],
