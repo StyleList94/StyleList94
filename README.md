@@ -37,7 +37,7 @@ export default function useIntroduce() {
 
   const [framework] = React.useState(['Next.js', 'Astro']);
   const [buildTool] = React.useState(['webpack', 'rollup.js', 'Vite']);
-  const [styling] = React.useState(['tailwindcss', 'styled-components', 'CSS']);
+  const [styling] = React.useState(['tailwindcss', 'vanilla-extract', 'CSS']);
   const [testing] = React.useState(['vitest', 'jest', 'testing-library']);
   const [stateManagement] = React.useState(['redux', 'zustand', 'recoil']);
 
